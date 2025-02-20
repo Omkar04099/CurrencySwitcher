@@ -1,0 +1,121 @@
+
+
+{
+    "translations": {
+      "recommended": {
+        "en": "Recommended Products",
+        "es": "Productos Recomendados",
+        "fr": "Produits Recommandés",
+        "de": "Empfohlene Produkte",
+        "zh": "推荐产品",
+        "ja": "おすすめ商品",
+        "ar": "منتجات موصى بها",
+        "ru": "Рекомендуемые товары",
+        "pt": "Produtos Recomendados",
+        "hi": "सिफारिश किए गए उत्पाद",
+        "ko": "추천 제품",
+        "it": "Prodotti Consigliati"
+      }
+    },
+    
+    "products": [
+      {
+        "id": 1,
+        "name": {
+          "en": "Smartphone",
+          "es": "Teléfono Inteligente",
+          "fr": "Téléphone Intelligent",
+          "de": "Smartphone",
+          "zh": "智能手机",
+          "ja": "スマートフォン",
+          "ar": "هاتف ذكي",
+          "ru": "Смартфон",
+          "pt": "Smartphone",
+          "hi": "स्मार्टफोन",
+          "ko": "스마트폰",
+          "it": "Smartphone"
+        },
+        "price": 1000,
+        "image": "../assets/product-image.webp"
+      },
+      {
+        "id": 2,
+        "name": {
+          "en": "Tablet",
+          "es": "Tableta",
+          "fr": "Tablette",
+          "de": "Tablet",
+          "zh": "平板电脑",
+          "ja": "タブレット",
+          "ar": "جهاز لوحي",
+          "ru": "Планшет",
+          "pt": "Tablet",
+          "hi": "टैबलेट",
+          "ko": "태블릿",
+          "it": "Tablet"
+        },
+        "price": 600,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "name": {
+          "en": "Laptop",
+          "es": "Portátil",
+          "fr": "Ordinateur Portable",
+          "de": "Laptop",
+          "zh": "笔记本电脑",
+          "ja": "ノートパソコン",
+          "ar": "كمبيوتر محمول",
+          "ru": "Ноутбук",
+          "pt": "Laptop",
+          "hi": "लैपटॉप",
+          "ko": "노트북",
+          "it": "Laptop"
+        },
+        "price": 1200,
+        "image": "https://via.placeholder.com/150"
+      }
+    ],
+    "recommendedProducts": [
+      {
+        "id": 4,
+        "name": {
+          "en": "Smart Watch",
+          "es": "Reloj Inteligente",
+          "fr": "Montre Intelligente",
+          "de": "Smartwatch",
+          "zh": "智能手表",
+          "ja": "スマートウォッチ",
+          "ar": "ساعة ذكية",
+          "ru": "Умные часы",
+          "pt": "Relógio Inteligente",
+          "hi": "स्मार्ट घड़ी",
+          "ko": "스마트 워치",
+          "it": "Orologio Intelligente"
+        },
+        "price": 200,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 5,
+        "name": {
+          "en": "Wireless Earbuds",
+          "es": "Auriculares Inalámbricos",
+          "fr": "Écouteurs Sans Fil",
+          "de": "Kabellose Ohrhörer",
+          "zh": "无线耳塞",
+          "ja": "ワイヤレスイヤホン",
+          "ar": "سماعات لاسلكية",
+          "ru": "Беспроводные наушники",
+          "pt": "Fones de Ouvido Sem Fio",
+          "hi": "वायरलेस ईयरबड्स",
+          "ko": "무선 이어폰",
+          "it": "Auricolari Wireless"
+        },
+        "price": 100,
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
